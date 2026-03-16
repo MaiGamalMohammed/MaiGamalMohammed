@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mai, a backend developer focused on Node.js, Express.js, and building clean, efficient systems. From Earth, currently coding my way up 🚀</p>
+<p align="left">My name is Mai, a backend developer focused on Node.js, Express.js, and building clean, efficient systems.</p>
 
 ###
 
